@@ -1,0 +1,11 @@
+C:\Users\aaron\documents\projects\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\Ch02\MyDotNet\bin\Debug\netcoreapp2.0\MyDotNet.deps.json
+C:\Users\aaron\documents\projects\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\Ch02\MyDotNet\bin\Debug\netcoreapp2.0\MyDotNet.runtimeconfig.json
+C:\Users\aaron\documents\projects\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\Ch02\MyDotNet\bin\Debug\netcoreapp2.0\MyDotNet.runtimeconfig.dev.json
+C:\Users\aaron\documents\projects\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\Ch02\MyDotNet\bin\Debug\netcoreapp2.0\MyDotNet.dll
+C:\Users\aaron\documents\projects\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\Ch02\MyDotNet\bin\Debug\netcoreapp2.0\MyDotNet.pdb
+C:\Users\aaron\documents\projects\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\Ch02\MyDotNet\obj\Debug\netcoreapp2.0\MyDotNet.csprojResolveAssemblyReference.cache
+C:\Users\aaron\documents\projects\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\Ch02\MyDotNet\obj\Debug\netcoreapp2.0\MyDotNet.csproj.CoreCompileInputs.cache
+C:\Users\aaron\documents\projects\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\Ch02\MyDotNet\obj\Debug\netcoreapp2.0\MyDotNet.AssemblyInfoInputs.cache
+C:\Users\aaron\documents\projects\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\Ch02\MyDotNet\obj\Debug\netcoreapp2.0\MyDotNet.AssemblyInfo.cs
+C:\Users\aaron\documents\projects\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\Ch02\MyDotNet\obj\Debug\netcoreapp2.0\MyDotNet.dll
+C:\Users\aaron\documents\projects\Ex_Files_Learning_Visual_Studio_Code\Exercise Files\Ch02\MyDotNet\obj\Debug\netcoreapp2.0\MyDotNet.pdb
